@@ -22,14 +22,14 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.voloshun.AwesomeProject"
+      "package": "com.mashyynnaa.AwesomeProject"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "92375f9d-27b1-412f-acb5-f10a2b9deae9"
+        "projectId": "e03550db-4441-4816-abd6-14b5fb67b975"
       }
     }
   }

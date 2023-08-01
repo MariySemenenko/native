@@ -97,3 +97,5 @@ export const Home = () => {
     </Tabs.Navigator>
   );
 };
+
+//@WrtU^2C@_.!sAY
